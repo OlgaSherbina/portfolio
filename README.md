@@ -21,11 +21,6 @@ Chrome DevTools.
 Во время выполнения проекта были закреплены навыки работы в программах: miro, setechco, postman, qase.io, также научилась составлять декомпозицию.
 
 С проектом можно ознакомиться по ссылке:
-https://bag-reportqa.atlassian.net/l/cp/03UiuDZh
-
-*логин: sherbina.olga28@gmail.com*
-
-*пароль: Jkzvbkfirf28*
 
 ## Контактная информация
 Электронная почта dello-olga@mail.ru
